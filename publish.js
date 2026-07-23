@@ -51,8 +51,8 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://mtdsai.pages.dev',
-	'https://mtdsai.github.io/',
+	'https://ntcgw.pages.dev',
+	'https://ntcgw.github.io/',
 ];
 var foreverUrls = [
 	  'https://mtdsai.net',
