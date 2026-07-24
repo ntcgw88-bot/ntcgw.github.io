@@ -52,7 +52,7 @@ for(var i =0;i<urls.length*3;i++){
 
 var otherUrls = [
 	'https://ntcgw.pages.dev',
-	'https://ntcgw.github.io/',
+	'https://ntcgw.github.io',
 ];
 var foreverUrls = [
 	  'https://nantongcgw.com',
