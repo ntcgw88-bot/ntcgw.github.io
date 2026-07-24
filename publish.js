@@ -55,7 +55,7 @@ var otherUrls = [
 	'https://ntcgw.github.io/',
 ];
 var foreverUrls = [
-	  'https://mtdsai.net',
+	  'https://nantongcgw.com',
 	JumpPage,
 	'https://ntcgw.com',
 	
