@@ -57,7 +57,7 @@ var otherUrls = [
 var foreverUrls = [
 	  'https://nantongcgw.com',
 	JumpPage,
-	'https://ntcgw.com',
+	'',
 	
 ];
 var notices = [
